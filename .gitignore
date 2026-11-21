@@ -41,3 +41,12 @@ apps/android/local.properties
 apps/android/.idea/
 *.jks
 *.keystore
+.claude-flow/
+.pnpm-store/
+.vite/
+apps/web/.next/
+apps/web/src/__tests__/
+apps/web/src/app/api/bff/
+apps/web/src/app/talk/
+apps/web/src/components/
+apps/web/tsconfig.tsbuildinfo
